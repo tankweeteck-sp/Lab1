@@ -1,2 +1,2 @@
-# Lab1 sharing gitbuh
+# Lab1 sharing github
 # Testing
